@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.centered {
+  position: absolute;
+  color: white;
+  bottom: 30%;
+  left: 50%;
+  font-size: 100px;
+  transform: translate(-50%, -50%);
+}
